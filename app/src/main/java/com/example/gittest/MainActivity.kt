@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("hellow")
         println("change 2")
+        println("creating conflict 1")
     }
 }
