@@ -9,12 +9,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("creating conflict 1 master")
-
-
-
-
         println("change 2")
         println("creating conflict 1")
+        println("from friend push")
+
 
     }
 }
